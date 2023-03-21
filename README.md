@@ -1,1 +1,1 @@
-# Application-of-Discrete-Time-Markov-Model-in-Medical-Prognosis
+We can model the real-world problems into Markov process so that predicting the future is comparatively easier than using statistical models for prediction because they are very complex. The important and making life easier property of Markov Chains is that we need not worry about the past if we know the present to predict the future.
